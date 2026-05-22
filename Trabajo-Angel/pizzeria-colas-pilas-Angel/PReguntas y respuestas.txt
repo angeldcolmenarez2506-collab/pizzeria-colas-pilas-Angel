@@ -1,0 +1,18 @@
+❓ Preguntas de Comprensión (Obligatorias en el PR)
+
+¿Por qué un sistema de delivery usa Queue para los pedidos pero Stack para la bitácora? ¿Qué problema surgiría si invertimos las estructuras?
+
+R= Usamos Queue (cola) porque el primero en llegar es el primero en ser atendido (FIFO), y Stack (pila) para la bitácora porque al "deshacer" siempre necesitamos revertir lo último que ocurrió (LIFO). Si se invierten, el sistema colapsa.
+
+¿Por qué es obligatorio verificar Count == 0 antes de Dequeue() o Pop()? ¿Qué ocurre en ejecución si se omite?
+
+R=Porque si intentas sacar algo de una cola o pila vacía, el programa lanzará un error crítico y se cerrará de forma inesperada. 
+
+
+En el método Deshacer, ¿por qué es necesario analizar el texto con .StartsWith() antes de revertir? ¿Qué error lógico evitaría esto?
+
+R=Para que el programa sepa qué tipo de acción está revirtiendo  y aplique la lógica correcta. Sin esto intentariamos aplicar procesos equivocados a datos que no corresponden, lo que terminaría corrompiendo el estado de las colas.
+
+¿Qué ventaja tiene entregar mediante Fork + Pull Request en lugar de un archivo comprimido? ¿Cómo facilita la la retroalimentación?
+
+R=Porque Git guarda un historial detallado de cada cambio que haces, permitiendo rastrear errores, colaborar fácilmente y recibir retroalimentación directa sobre líneas de código específicas.

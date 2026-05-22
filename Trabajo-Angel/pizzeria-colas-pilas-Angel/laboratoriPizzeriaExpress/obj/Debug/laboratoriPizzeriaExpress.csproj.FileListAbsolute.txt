@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Trabajo-Angel\pizzeria-colas-pilas-Angel\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabajo-Angel\pizzeria-colas-pilas-Angel\laboratoriPizzeriaExpress\bin\Debug\laboratoriPizzeriaExpress.exe
+C:\Users\Usuario\Desktop\Trabajo-Angel\pizzeria-colas-pilas-Angel\laboratoriPizzeriaExpress\bin\Debug\laboratoriPizzeriaExpress.pdb
+C:\Users\Usuario\Desktop\Trabajo-Angel\pizzeria-colas-pilas-Angel\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.exe
+C:\Users\Usuario\Desktop\Trabajo-Angel\pizzeria-colas-pilas-Angel\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.pdb
+C:\Users\Usuario\Desktop\Trabajo-Angel\pizzeria-colas-pilas-Angel\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.MainForm.resources
+C:\Users\Usuario\Desktop\Trabajo-Angel\pizzeria-colas-pilas-Angel\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.csproj.GenerateResource.Cache
